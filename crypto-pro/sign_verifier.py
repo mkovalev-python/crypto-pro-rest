@@ -1,5 +1,4 @@
 from copy import copy
-from datetime import datetime
 from typing import Optional
 
 import settings

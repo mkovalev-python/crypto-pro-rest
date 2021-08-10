@@ -8,7 +8,7 @@ with open("README.md") as f:
     long_description = f.read()
 
 setup(
-    name="crypto-pro-rest",
+    name="crypto-pro-rest2",
     version=p_version,
     author="Kovalev Maxim",
     author_email="mkovalevhse@yandex.ru",
